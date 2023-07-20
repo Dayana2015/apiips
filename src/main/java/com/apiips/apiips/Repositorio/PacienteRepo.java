@@ -1,4 +1,4 @@
-package com.apiips.apiips.Repo;
+package com.apiips.apiips.Repositorio;
 
  
 
